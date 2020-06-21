@@ -1,4 +1,5 @@
-# Cprogs
+# Timer
 
 
-Here will be posted some C stuff 
+Computing a syscall and own local procedure
+
