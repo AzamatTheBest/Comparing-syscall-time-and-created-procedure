@@ -1,5 +1,5 @@
 # Timer
 
 
-Computing a syscall and own local procedure
+Comparing syscall time and own local procedure time
 
