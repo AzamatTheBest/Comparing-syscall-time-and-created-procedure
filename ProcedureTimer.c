@@ -5,7 +5,7 @@
 
 /*
 `````````````````````````````````````````
-This program calculates how musch more 
+This little program calculates how musch more 
 expensive is a system call than a 
 procedure call. 
 `````````````````````````````````````````
